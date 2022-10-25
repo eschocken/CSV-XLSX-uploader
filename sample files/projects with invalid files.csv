@@ -1,0 +1,9 @@
+Item Name,Assignee (Person),Submission Date (Date),Description (Text),Project ID,Departments (Dropdown),Budget (Numeric),Timeline,URL,Email
+Project A ,eyalsc@monday.com,2022-7-1,This project is about A,1111,Procurement; IT,210000,2022-07-30-2023-02-10,www.google.com,eyalsc@monday.com
+Project B,galer@monday.com,Invalid,This project is about A,2313,R&D,4050283,2022-01-30-2023-02-10,www.monday.com,galer@monday.com
+Project C ,eyalsc@monday.com,2022-10-10,This project is about A,38347,Procurement; IT,210000,2022-01-30-2022-02-10,www.google.com,eyalsc@monday.com
+Project D,Invalid value,2023-10-20,This project is about A,12341,R&D,4050283,2022-03-20-2023-03-05,www.monday.com,galer@monday.com
+Project E,eyalsc@monday.com,2021-5-5,This project is about A,123823,Procurement; IT,210000,2022-01-30-2021-02-01,www.google.com,eyalsc@monday.com
+Project F,galer@monday.com,2021-05-12,This project is about A,34628,R&D,Invalid,2022-07-30-2023-02-10,www.monday.com,galer@monday.com
+Project G,eyalsc@monday.com,2022-02-12,This project is about A,4329822,Procurement; IT,210000,2022-07-30-2023-02-10,www.google.com,eyalsc@monday.com
+Project H,galer@monday.com,2021-03-20,This project is about A,47362,R&D,4050283,2022-07-30-2023-02-10,www.monday.com,galer@monday.com

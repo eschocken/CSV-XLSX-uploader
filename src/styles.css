@@ -1,5 +1,53 @@
 .App {
   font-family: sans-serif;
   text-align: center;
+}
+
+.dropzone {
   border: 1px dashed;
+}
+
+.error {
+  color: var(--negative-color);
+  padding: var(--spacing-small);
+}
+
+.loader { 
+  padding: 8px 50% 0 50%;
+}
+
+.csvSelector {
+  width: 30%;
+  margin: 4px;
+}
+
+.headerInfo {
+  width: 26%;
+  margin: 4px;
+}
+
+.buttons {
+  margin: 8px;
+}
+
+.headerValue {
+  color: var(--primary-color)
+}
+
+.headerValueDisabled {
+  color: var(--disabled-text-color);
+}
+
+
+.lookupActive {
+  background-color: var(--primary-selected-color);
+}
+
+.columnInfo {
+  width: 20%;
+}
+
+.iconSelector {
+  width: 4%;
+  margin: 4px;
 }
